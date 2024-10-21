@@ -14,21 +14,20 @@
 ```
 
 ## 開發工具
+```
 Eric: VScode
 Charley:
-
+```
 ## 版本控制
+```
 Eric: GitHub
 Charley:
-
+```
 ## 程式語言(框架)
+```
 Eric: HTML、CSS、JavaS、JavaT(Vue)
 Charley:
-
-
-
-
-
+```
 
 ## 結構參考cypress
 ```mermaid
